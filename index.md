@@ -86,13 +86,13 @@ I read this interesting quote the other day:
 
 
 * Calculus
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell  
+  * An opera singer
+  * Has white hair
+  * Is possibly mentally unwell  
 
 #### formatting text  
 
