@@ -1,3 +1,4 @@
+theme: minimal
 ## Exercise 1
 
 ### answers here:
