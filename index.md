@@ -133,9 +133,10 @@ The supported output formats are:
 
 ## Exercise 3
 
-Watch this [video!][this is video]
+Watch this (https://www.youtube.com/watch?v=H8ZH_mkfPUY)
+![Dog.] [dog]
 
-![Dog.][LightBrownDog]
+[dog]: https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNqem5ybW42ZHdreWR1amk3dHNnY29kdXJpY2YzdDJseDU3dWY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKHGnB1ml0moQdjhEJ/giphy.gif 
 
 ## Exercise 4
 
