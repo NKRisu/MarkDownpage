@@ -133,10 +133,13 @@ The supported output formats are:
 
 ## Exercise 3
 
-Watch this (https://www.youtube.com/watch?v=H8ZH_mkfPUY)
-![Dog.] [dog]
+[Watch this video] (https://www.youtube.com/watch?v=H8ZH_mkfPUY)
 
-[dog]: https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNqem5ybW42ZHdreWR1amk3dHNnY29kdXJpY2YzdDJseDU3dWY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKHGnB1ml0moQdjhEJ/giphy.gif 
+![a dog.][dog]
+
+
+[dog]: https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNqem5ybW42ZHdreWR1amk3dHNnY29kdXJpY2YzdDJseDU3dWY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKHGnB1ml0moQdjhEJ/giphy.webp
+
 
 ## Exercise 4
 
