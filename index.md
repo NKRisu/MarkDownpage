@@ -1,47 +1,44 @@
-theme: minimal
 ## Exercise 1
 
 ### answers here:
 
 #### text edit
 
-Writing in Markdown is _not_ that hard!
+Writing in Markdown is _not_ that hard!  
 I **will** complete these lessons!  
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"  
-If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right. 
+If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 #### header
 
-    #Header one  
-    ##Header two  
-    ###Header three  
-    ####Header four  
-    #####Header five  
-    ######Header six  
+# Header one  
+## Header two  
+### Header three  
+#### Header four  
+##### Header five  
+###### Header six  
 
 #### links and reference
 
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
-####Colombian Symbolism in _One Hundred Years of Solitude_  
+[Search for it.](https://www.google.com)  
 
-[Search for it.](www.google.com)  
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)  
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)  
-
-####The Latest News from [the BBC](www.bbc.com/news)  
+#### The Latest News from [the BBC](https://www.bbc.com/news)  
 
 Do you want to [see something fun][a fun place]?  
 
 Well, do I have [the website for you][another fun place]!  
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com  
+[another fun place]: https://www.stumbleupon.com  
 
-#### image and reference  
-
+#### image and reference
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)  
- 
+
 ![Black cat][Black]  
 
 ![Orange cat][Orange]  
@@ -49,42 +46,33 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg  
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png  
 
-#### quotelines  
+#### quotelines
 
+I read this interesting quote the other day:
 
-I read this interesting quote the other day: 
+> "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 
->"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"  
+> Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 
- 
->Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...  
+> His father told him that story: his father looked at him through a glass: he had a hairy face.
 
->His father told him that story: his father looked at him through a glass: he had a hairy face.  
+> He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
 
->He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.  
+> He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-
->He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity.   Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held,       wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!  
-
- 
-
-#### lists  
-
+#### lists
 
 * Flour
 * Cheese
-* Tomatoes  
-
+* Tomatoes
 
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in flour  
-
+3. Rub the tomatoes in flour
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)  
-
+* Dahlia (_Coreopsideae Dahlia_)
 
 * Calculus
   * A professor
@@ -93,10 +81,9 @@ I read this interesting quote the other day:
 * Castafiore
   * An opera singer
   * Has white hair
-  * Is possibly mentally unwell  
+  * Is possibly mentally unwell
 
-#### formatting text  
-
+#### formatting text
 
 1. Cut the cheese
 
@@ -109,25 +96,23 @@ I read this interesting quote the other day:
     For more help on tomato slicing,
     see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-#### paragraphs  
-
+#### paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
-To doubt they were kneeling then.  
+To doubt they were kneeling then.
 
-#### soft break  
-
+#### soft break
 
 1. Crack three eggs over a bowl.  
-Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
-If you _do_ make a mess, use a towel to clean it up!
+   Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
+   If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
-Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+   Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
-## Exercise 2  
+## Exercise 2
 
 #### GML, Generalized Markup Language
 **GML** was developed in 1969 by Charles **G**oldfarb, Edward **M**osher and Raymond **L**orie, their surname initial were used to make up the term **GML**. Using GML, a document is marked up with tags that define what the text is, in terms of paragraphs, headers, lists, tables, and so forth.  
@@ -148,13 +133,14 @@ The supported output formats are:
 
 ## Exercise 3
 
-Watch this [video!] [this is video]
+Watch this [video!][this is video]
 
 ![Dog.][LightBrownDog]
 
 ## Exercise 4
 
-```public class Person{
+```csharp
+public class Person{
   private string name;
   private int age;
 
@@ -171,11 +157,4 @@ Watch this [video!] [this is video]
   {
     this.age = this.age + 1;
   }
-}```
-
-
-
-
-
-[this is video]: https://www.youtube.com/watch?v=YZ_ib_9pNW4
-[LightBrownDog]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F02%2F11%2F16%2F57%2Fdog-1194077_960_720.jpg&f=1&nofb=1&ipt=cb551c40f0225c5d1eb1bda2ce3cc69b140cc3aa3d8e5d40c598669e73f2e1ab&ipo=images
+}
